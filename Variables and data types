@@ -1,0 +1,15 @@
+Variables are named storage locations that can hold data values. They are containers where you can store different types of data such as numbers,texts,boolean values etc.Variables are declared with a name and a specific data type. The name is used to reference the variable throughout the program and enable its ececution.They allow programmers to work with data in an organized manner and help to manage storage.
+
+Data types refers to the type of data that a variable can hold. They determine the range of values and the operations that can be performed on the data contained inside the variable.Common data types include integers, floating-point numbers, characters, boolean values and strings.Different programming languages support various data types.
+
+How Variables and Data types are used to store and Manupulate data
+
+For Storing Data:
+
+Variables are used to store data of specific types. For example, you might use an integer variable to store whole numbers and a string variable to store text and float to store decimal numbers of 8 bits.
+Also variables allocate and manage memory resources based on the data type since different data types have different memory requirements.
+By declaring the appropriate data type for a variable, you ensure that the variable can only store values of that type, which helps prevent data-related errors.
+
+For Manipulating Data:
+
+Data types determine the operations that can be performed on variables. For instance, you can perform arithmetic operations on integer and floating-point variables, but not on string variables.String variables also have special operations that can be performed on them depending with a programming language.Variables can be updated, reassigned, or modified to perform various computations and transformations on the stored data.
